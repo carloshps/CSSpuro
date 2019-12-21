@@ -2,7 +2,7 @@
 name: "\U0001F4DA Documentação é tudo!"
 about: Sugestões de melhoria na documentação
 title: 'Comece o título da Issue com o termo: [DOC]'
-labels: "documentation \U0001F4DA"
+labels: ''
 assignees: carloshps
 
 ---
